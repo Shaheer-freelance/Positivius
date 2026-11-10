@@ -527,6 +527,9 @@ textarea {
 }
 
 .social-links a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   width: 27px;
   height: 27px;
   border-radius: 50%;
