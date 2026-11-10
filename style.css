@@ -46,6 +46,10 @@ textarea {
 }
 
 .site-header {
+  position: sticky;
+  top: 0px;
+  background-color: #ffffff;
+  z-index: 1000;
   min-height: 108px;
   display: flex;
   align-items: center;
